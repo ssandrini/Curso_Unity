@@ -13,6 +13,5 @@ public class CheckCollisions : MonoBehaviour
             Destroy(this.gameObject);
             Destroy(other.gameObject);
         }
-
     }
 }
